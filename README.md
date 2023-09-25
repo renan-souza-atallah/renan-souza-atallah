@@ -1,6 +1,6 @@
 ## Olá, eu sou o Renan!
 
-![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=renan-souza-atallah&show_icons=true&theme=radical)
+![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=renan-souza-atallah&show_icons=true&theme=tokynight)
 
 ## My Skills
 
