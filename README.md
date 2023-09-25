@@ -1,8 +1,8 @@
 <a href="https://github.com/renan-souza-atallah/github-readme-stats">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=renan-souza-atallah" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renan-souza-atalalh&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/renan-souza-atallah/convoychat">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=renan-souza-atallah&layout=compact&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renan-souza-atallah&repo=convoychat" />
 </a>
 
 ## My Skills
