@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+
 <a href="https://github.com/renan-souza-atallah&/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=renan-souza-atallah&theme=synthwave" />
 </a>
