@@ -2,7 +2,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=renan-souza-atallah&theme=synthwave" />
 </a>
 <a href="https://github.com/renan-souza-atallah&/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=renan-souza-atallah&layout=compact&langs_count=8&card_width=320&theme=synthwave" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=renan-souza-atallah&layout=compact&langs_count=8&theme=synthwave" />
 </a>
 
 ## Minhas habilidades
