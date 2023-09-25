@@ -1,6 +1,7 @@
 k## Olá, eu sou o Renan!
 
 ![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=renan-souza-atallah&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renan-souza-atallah&hide_progress=true)
 
 ## My Skills
 
